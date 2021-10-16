@@ -1,0 +1,16 @@
+C:\learn\ood_practice\Observer\Observer\Observer\obj\Debug\net5.0\Observer.csproj.AssemblyReference.cache
+C:\learn\ood_practice\Observer\Observer\Observer\obj\Debug\net5.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn\ood_practice\Observer\Observer\Observer\obj\Debug\net5.0\Observer.AssemblyInfoInputs.cache
+C:\learn\ood_practice\Observer\Observer\Observer\obj\Debug\net5.0\Observer.AssemblyInfo.cs
+C:\learn\ood_practice\Observer\Observer\Observer\obj\Debug\net5.0\Observer.csproj.CoreCompileInputs.cache
+C:\learn\ood_practice\Observer\Observer\Observer\bin\Debug\net5.0\Observer.exe
+C:\learn\ood_practice\Observer\Observer\Observer\bin\Debug\net5.0\Observer.deps.json
+C:\learn\ood_practice\Observer\Observer\Observer\bin\Debug\net5.0\Observer.runtimeconfig.json
+C:\learn\ood_practice\Observer\Observer\Observer\bin\Debug\net5.0\Observer.runtimeconfig.dev.json
+C:\learn\ood_practice\Observer\Observer\Observer\bin\Debug\net5.0\Observer.dll
+C:\learn\ood_practice\Observer\Observer\Observer\bin\Debug\net5.0\ref\Observer.dll
+C:\learn\ood_practice\Observer\Observer\Observer\bin\Debug\net5.0\Observer.pdb
+C:\learn\ood_practice\Observer\Observer\Observer\obj\Debug\net5.0\Observer.dll
+C:\learn\ood_practice\Observer\Observer\Observer\obj\Debug\net5.0\ref\Observer.dll
+C:\learn\ood_practice\Observer\Observer\Observer\obj\Debug\net5.0\Observer.pdb
+C:\learn\ood_practice\Observer\Observer\Observer\obj\Debug\net5.0\Observer.genruntimeconfig.cache
